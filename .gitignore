@@ -1,0 +1,17 @@
+﻿# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+
+# Eclipse / IntelliJ / VSCode
+.project
+.classpath
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
